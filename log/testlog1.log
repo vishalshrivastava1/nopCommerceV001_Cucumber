@@ -541,3 +541,8 @@
 2020-08-15 22:39:51,953 [main] INFO nopCommerce - ********Click on Logout Link********
 2020-08-15 22:39:57,043 [main] INFO nopCommerce - ********Login Failed********
 2020-08-15 22:39:57,047 [main] INFO nopCommerce - ********Closing browser********
+2020-08-15 22:40:02,139 [main] INFO nopCommerce - ********Launching Browser********
+2020-08-15 22:40:02,144 [main] INFO nopCommerce - ********Opening URL********
+2020-08-15 22:40:09,499 [main] INFO nopCommerce - ********Providing login details user name and password********
+2020-08-15 22:40:09,680 [main] INFO nopCommerce - ********Started Login********
+2020-08-15 22:40:14,201 [main] INFO nopCommerce - ********Login Pass********

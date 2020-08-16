@@ -116,7 +116,6 @@ public class AddCustomerPage {
 		
 		}
 
-	
 		public void setManagerOfVendor(String value)
 		{
 			Select drp=new Select(ldriver.findElement(drpmgrOfVendor));
